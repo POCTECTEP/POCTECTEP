@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋
+## My name is Artyom, I'm Intern DevOps Engineer
 
-<!--
-**POCTECTEP/POCTECTEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About me
+* Interests: **Process automation, coding, machine learning**
+* Education: **Bachelor's student in Software System and Development Process Automation**
 
-Here are some ideas to get you started:
+### 🛠️ My tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🌐 Languages
+- Python **(Aiogram, FastAPI)**
+- SQL **(CRUD, RIGHT/INNER/LEFT JOINS, INDEXES, FUNCTIONS)**
+- Swift **(SwiftUI)**
+
+---
+
+#### 🗃️ Databases
+##### SQL
+- PostgreSQL
+- ClickHouse
+
+##### NoSQL
+- Redis
+
+---
+
+#### 📨 Message Brokers
+- Kafka
+
+---
+
+#### 👀 Observability & Monitoring
+- Grafana
+- Prometheus
+
+---
+
+#### ⚙️ Infrastructure
+- Linux **(Debian)**
+- Docker **(Dockerfile, docker-compose, images, volumes, networks)**
+- Kubernetes **(YAML manifests, kubectl apply/delete, work with local clusters)**
+
+---
+
+#### 👣 Version Control & Services
+- Git
+- GitLab **(Local)**
+- GitHub
+
+---
+
+#### ♾️ CI/CD
+- GitLab CI
