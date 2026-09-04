@@ -53,3 +53,4 @@
 
 #### ♾️ CI/CD
 - GitLab CI
+- GitHub Actions
